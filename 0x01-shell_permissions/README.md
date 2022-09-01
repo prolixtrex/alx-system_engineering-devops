@@ -1,0 +1,1 @@
+Shell permissio codes
