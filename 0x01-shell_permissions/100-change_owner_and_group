@@ -1,2 +1,2 @@
 #!/bin/bash
-su vincent, su -g staff
+su vincent -g staff
